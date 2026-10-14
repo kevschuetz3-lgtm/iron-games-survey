@@ -10,7 +10,7 @@ Survey site sent to current, past and prospective Iron Games athletes to plan
 - Static single page (GitHub Pages, `main` branch root). Branding matches the
   sponsor and volunteer sites: Anton + Poppins, black / #c13b4a red, same photos.
 - Questions: name, email, times competed (0-6), time of year, number of days,
-  fitness events to add (+ Other), CrossFit divisions to add, most important
+  additions to the overall event (Hyrox Style Race, Gauntlet, Oly, Powerlifting, Livestream, + Other), CrossFit divisions to add, most important
   (+ Other), and "what would make you 100% sign up".
 - Submit POSTs `{action:'ironGamesSurvey'}` to the shared Koda Apps Script backend
   (`koda-coaching/apps-script/Code.js`, see `ironGamesSurvey_`). The backend:
