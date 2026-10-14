@@ -4,6 +4,7 @@ Survey site sent to current, past and prospective Iron Games athletes to plan
 2027 and the move toward a Colorado Fitness Festival.
 
 **Live:** https://kevschuetz3-lgtm.github.io/iron-games-survey/
+**Responses:** [Koda Iron Games 2027 Athlete Survey](https://docs.google.com/spreadsheets/d/1EwG4EYDEjEoOuOBvc79dSEDt5BxA234MhXgJQg2l7Yo/edit) (Summary tab first)
 
 ## How it works
 - Static single page (GitHub Pages, `main` branch root). Branding matches the
